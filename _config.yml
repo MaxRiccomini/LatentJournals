@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Latent Journals
-email: Max.Riccomini03@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Latent Journals, a personal blog where I share my thoughts, experiences, and insights on various topics that interest me. 
-  Join me on this journey of exploration and discovery! From technology and programming to travel and lifestyle, I aim to provide valuable content that 
-  resonates with my readers. Stay tuned for regular updates and feel free to engage with the content through comments and discussions.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  maxriccomini
+# title: Latent Journals
+# email: Max.Riccomini03@gmail.com
+# description: >- # this means to ignore newlines until "baseurl:"
+  # Welcome to Latent Journals, a personal blog where I share my thoughts, experiences, and insights on various topics that interest me. 
+  # Join me on this journey of exploration and discovery! From technology and programming to travel and lifestyle, I aim to provide valuable content that 
+  # resonates with my readers. Stay tuned for regular updates and feel free to engage with the content through comments and discussions.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# github_username:  maxriccomini
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+ # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
