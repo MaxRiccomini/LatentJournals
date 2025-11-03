@@ -1,2 +1,0 @@
-# LatentJournals
-Topics of Writing
